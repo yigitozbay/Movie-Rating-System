@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1621957462 source:c:\users\fener\desktop\rar\mrs\main.cpp
+	<iostream>
+	"movieRatingSys.h"
+	<fstream>
+	<string>
+
+1621956971 c:\users\fener\desktop\rar\mrs\movieratingsys.h
+	<iostream>
+
+1621957050 source:c:\users\fener\desktop\rar\mrs\movieratingsys.cpp
+	"movieRatingSys.h"
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<cstring>
+	<fstream>
+
